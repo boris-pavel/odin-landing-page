@@ -150,3 +150,25 @@ ul {
     font-weight: 500;
     align-self: flex-end;
 }
+
+.sign-up-section {
+    background-color: #3882f6;
+    flex-grow: 1;
+    height: 100px;
+    border-radius: 10px;
+    color: #f9faf8;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin:100px;
+}
+
+.announcement-title{
+    font-weight: 900;
+}
+
+.sign-up-section-button {
+    border: 1px solid #f9faf8;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
