@@ -1,4 +1,4 @@
-# Project : Landing Page
+# Project: Landing Page
 A web page created from a provided design.
 
 The provided design photos:
