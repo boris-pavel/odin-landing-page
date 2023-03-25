@@ -34,7 +34,12 @@ ul {
 }
 
 .quote-section {
+
+    padding: 100px 200px;
     background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+
 }
 
 .logo {
@@ -132,4 +137,16 @@ ul {
     width: 150px;
     height: 150px;
     text-align: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.author {
+    font-size: 20px;
+    font-weight: 500;
+    align-self: flex-end;
 }
